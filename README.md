@@ -22,3 +22,21 @@ R// facilita la realización de operaciones comunes, sino que también garantiza
 
 R// Los sirven para lo mismo pero en temas de ser mas legible y para hacer mejor la depuracion de codigo es mejor utilizar los ternarios para cosas mas simples y para logicas mas complejas utulizar if
 
+
+¿Qué ventajas tiene el método map sobre un bucle for en TypeScript?
+
+R// con el metodo map te va a devolver si o si un array con la misma cantidad de datos que el arrray inicial 
+
+¿Cómo se puede asegurar el tipo de datos en un array en TypeScript?
+
+R// lo que se hace es que primero se pone el tipo de los elementos del array y despues se ponen [] para diferenciar que es un array
+
+¿Qué ventajas ofrece el uso de tipos personalizados en objetos?
+
+R// Ofrece muchas ventajas ya que desde antes de crear el objeto ya estas instanciando las entidades que va a tener y esto nos ayuda a prevenir error a que el proyecto sea mas escalable y pueda tener consistencia en el timepo
+
+¿Qué beneficios ofrece la definición explícita de tipos en las funciones en TypeScript?
+
+R// Los beneficios que tiene es que antes de ejecutar la funcion ya sabes que tipo e sel qeu va a retornar puedas saber que es lo que se espera en los parametros
+
+
